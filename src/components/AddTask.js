@@ -14,7 +14,7 @@ function AddTask({ addTask }) {
 
         if (!taskText) {
             toast({
-                title: 'Digite sua tarefa',
+                title: 'Please Enter the task',
                 position: 'top',
                 status: 'warning',
                 duration: 2000,
