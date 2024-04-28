@@ -96,7 +96,7 @@ function App() {
             <TaskList tasks={tasks} updateTask={updateTask} deleteTask={deleteTask} deleteTaskAll={deleteTaskAll} checkTask={checkTask}/>
             
             <Flex position='absolute' bottom='5'>
-                <Link href='https://github.com/raminhuk' target='_blank' >
+                <Link href='https://github.com/Siddhant716/react-todo-list-app' target='_blank' >
                     <IconButton 
                     icon={<FaGithub/>}
                     isRound='true'
@@ -104,7 +104,7 @@ function App() {
                     m='1'
                 /> 
                 </Link>
-                <Link href='https://www.linkedin.com/in/fabio-junior-raminhuk-740669121/' target='_blank'>
+                <Link href='https://www.linkedin.com/in/siddhant-prakash-gautam-8abb05252/' target='_blank'>
                     <IconButton 
                     icon={<FaLinkedin/>}
                     isRound='true'
@@ -112,7 +112,7 @@ function App() {
                     m='1'
                 /> 
                 </Link>
-                <Link href='https://www.instagram.com/fabiormk/' target='_blank'>
+                <Link href='https://www.instagram.com/siddhantt.18/' target='_blank'>
                     <IconButton 
                     icon={<FaInstagram/>}
                     isRound='true'
@@ -120,7 +120,7 @@ function App() {
                     m='1'
                 /> 
                 </Link>
-                <Link href='https://twitter.com/fabio_rmk' target='_blank'>
+                <Link href='' target='_blank'>
                     <IconButton 
                     icon={<FaTwitter/>}
                     isRound='true'
@@ -128,7 +128,7 @@ function App() {
                     m='1'
                 /> 
                 </Link>
-                <Link href='https://www.facebook.com/fabio.raminhuk' target='_blank'>
+                <Link href='' target='_blank'>
                     <IconButton 
                     icon={<FaFacebook/>}
                     isRound='true'
